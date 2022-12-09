@@ -1,0 +1,2 @@
+(make | adjust | set | turn) the volume  on (the radio | radio | the music player | music player | mpd) on {pos_nr}
+(make | adjust | set | turn) the volume on {pos_nr}
